@@ -25,3 +25,9 @@ Code, Record and Replay your coding session
 
 * Many thanks to the powerful Monaco Editor
 * https://github.com/Microsoft/monaco-editor
+
+
+## Limits
+
+* works better with Chrome
+* doesn't work on mobile (Monaco Editor limits...)
