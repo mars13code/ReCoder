@@ -20,6 +20,11 @@ Code, Record and Replay your coding session
 * Press "GO" when the page is loaded
 * https://mars13.fr/dev/recoder/?load=https://raw.githubusercontent.com/mars13code/ReCoder/master/samples/ReCode-002.json
 
+### introduction to jQuery
+
+* Replay the writing of somes simple lines of code  (HTML+JS+jQuery)
+* Press "GO" when the page is loaded
+* https://mars13.fr/dev/recoder/?load=https://raw.githubusercontent.com/mars13code/ReCoder/master/samples/ReCode-003.json
 
 ## Monaco Editor
 
