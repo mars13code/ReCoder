@@ -1,0 +1,5810 @@
+[
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 1,
+            "endLineNumber": 1,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 2,
+            "endLineNumber": 1,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 3,
+            "endLineNumber": 1,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 4,
+            "endLineNumber": 1,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "v",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 5,
+            "endLineNumber": 1,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 6,
+            "endLineNumber": 1,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 7,
+            "endLineNumber": 1,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 8,
+            "endLineNumber": 1,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 9,
+            "endLineNumber": 1,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 10,
+            "endLineNumber": 1,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 11,
+            "endLineNumber": 1,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "=",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 12,
+            "endLineNumber": 1,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "\"\"",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 13,
+            "endLineNumber": 1,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 14,
+            "endLineNumber": 1,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 15,
+            "endLineNumber": 1,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "g",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 16,
+            "endLineNumber": 1,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 18,
+            "endLineNumber": 1,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 19,
+            "endLineNumber": 1,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "\r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 5,
+            "endLineNumber": 2,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 1,
+            "endLineNumber": 2,
+            "endColumn": 6
+        },
+        "rangeLength": 5,
+        "text": "</div>",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 7,
+            "endLineNumber": 2,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 1,
+            "endLineNumber": 3,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 2,
+            "endLineNumber": 3,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 3,
+            "endLineNumber": 3,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 4,
+            "endLineNumber": 3,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 5,
+            "endLineNumber": 3,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 6,
+            "endLineNumber": 3,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 7,
+            "endLineNumber": 3,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 8,
+            "endLineNumber": 3,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 9,
+            "endLineNumber": 3,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 10,
+            "endLineNumber": 3,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 11,
+            "endLineNumber": 3,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 12,
+            "endLineNumber": 3,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "=",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 13,
+            "endLineNumber": 3,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "\"\"",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 15,
+            "endLineNumber": 3,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 16,
+            "endLineNumber": 3,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 17,
+            "endLineNumber": 3,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 18,
+            "endLineNumber": 3,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 19,
+            "endLineNumber": 3,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 20,
+            "endLineNumber": 3,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 21,
+            "endLineNumber": 3,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 22,
+            "endLineNumber": 3,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 23,
+            "endLineNumber": 3,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 24,
+            "endLineNumber": 3,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 7,
+            "endLineNumber": 2,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 1,
+            "endLineNumber": 3,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 2,
+            "endLineNumber": 3,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "!",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 3,
+            "endLineNumber": 3,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "-",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 4,
+            "endLineNumber": 3,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "-",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 5,
+            "endLineNumber": 3,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 6,
+            "endLineNumber": 3,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "-",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 7,
+            "endLineNumber": 3,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "-",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 8,
+            "endLineNumber": 3,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 6,
+            "endLineNumber": 3,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 7,
+            "endLineNumber": 3,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "H",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 8,
+            "endLineNumber": 3,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 9,
+            "endLineNumber": 3,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 10,
+            "endLineNumber": 3,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 11,
+            "endLineNumber": 3,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "G",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 12,
+            "endLineNumber": 3,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 12,
+            "endLineNumber": 3,
+            "endColumn": 13
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 11,
+            "endLineNumber": 3,
+            "endColumn": 12
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 10,
+            "endLineNumber": 3,
+            "endColumn": 11
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 10,
+            "endLineNumber": 3,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "G",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 11,
+            "endLineNumber": 3,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 12,
+            "endLineNumber": 3,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 13,
+            "endLineNumber": 3,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 14,
+            "endLineNumber": 3,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 14,
+            "endLineNumber": 3,
+            "endColumn": 15
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 14,
+            "endLineNumber": 3,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "L",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 15,
+            "endLineNumber": 3,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 16,
+            "endLineNumber": 3,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 17,
+            "endLineNumber": 3,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 18,
+            "endLineNumber": 3,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 19,
+            "endLineNumber": 3,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 20,
+            "endLineNumber": 3,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 21,
+            "endLineNumber": 3,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 22,
+            "endLineNumber": 3,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 23,
+            "endLineNumber": 3,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 24,
+            "endLineNumber": 3,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 25,
+            "endLineNumber": 3,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "J",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 26,
+            "endLineNumber": 3,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": "Q",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 27,
+            "endLineNumber": 3,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "U",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 28,
+            "endLineNumber": 3,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 29,
+            "endLineNumber": 3,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 30,
+            "endLineNumber": 3,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "Y",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 3,
+            "startColumn": 31,
+            "endLineNumber": 3,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 4,
+            "startColumn": 1,
+            "endLineNumber": 4,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "<!-- CHARGER LE CODE DE JQUERY -->\r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 4,
+            "startColumn": 6,
+            "endLineNumber": 4,
+            "endColumn": 31
+        },
+        "rangeLength": 25,
+        "text": "https://cdnjs.com/libraries/jquery/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 5,
+            "startColumn": 14,
+            "endLineNumber": 5,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 5,
+            "startColumn": 90,
+            "endLineNumber": 5,
+            "endColumn": 90
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 1,
+            "endLineNumber": 6,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 2,
+            "endLineNumber": 6,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 3,
+            "endLineNumber": 6,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 4,
+            "endLineNumber": 6,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 5,
+            "endLineNumber": 6,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 6,
+            "endLineNumber": 6,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 7,
+            "endLineNumber": 6,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 8,
+            "endLineNumber": 6,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 9,
+            "endLineNumber": 6,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 10,
+            "endLineNumber": 6,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 11,
+            "endLineNumber": 6,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 12,
+            "endLineNumber": 6,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 13,
+            "endLineNumber": 6,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 14,
+            "endLineNumber": 6,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 15,
+            "endLineNumber": 6,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 16,
+            "endLineNumber": 6,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 17,
+            "endLineNumber": 6,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 9,
+            "endLineNumber": 6,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "\r\n    \r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 1,
+            "endLineNumber": 7,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 2,
+            "endLineNumber": 7,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "*",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 3,
+            "endLineNumber": 7,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "*",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 4,
+            "endLineNumber": 7,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 3,
+            "endLineNumber": 7,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 4,
+            "endLineNumber": 7,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 5,
+            "endLineNumber": 7,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 6,
+            "endLineNumber": 7,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 7,
+            "endLineNumber": 7,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 8,
+            "endLineNumber": 7,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 9,
+            "endLineNumber": 7,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 10,
+            "endLineNumber": 7,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 11,
+            "endLineNumber": 7,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 12,
+            "endLineNumber": 7,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 13,
+            "endLineNumber": 7,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "L",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 14,
+            "endLineNumber": 7,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 15,
+            "endLineNumber": 7,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 15,
+            "endLineNumber": 7,
+            "endColumn": 16
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 14,
+            "endLineNumber": 7,
+            "endColumn": 15
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 14,
+            "endLineNumber": 7,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "'",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 15,
+            "endLineNumber": 7,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 16,
+            "endLineNumber": 7,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 17,
+            "endLineNumber": 7,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 18,
+            "endLineNumber": 7,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "I",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 19,
+            "endLineNumber": 7,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "V",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 20,
+            "endLineNumber": 7,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 21,
+            "endLineNumber": 7,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 22,
+            "endLineNumber": 7,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "I",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 23,
+            "endLineNumber": 7,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 24,
+            "endLineNumber": 7,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "N",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 25,
+            "endLineNumber": 7,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 26,
+            "endLineNumber": 7,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 27,
+            "endLineNumber": 7,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 28,
+            "endLineNumber": 7,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 29,
+            "endLineNumber": 7,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "N",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 30,
+            "endLineNumber": 7,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 31,
+            "endLineNumber": 7,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 32,
+            "endLineNumber": 7,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 33,
+            "endLineNumber": 7,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 34,
+            "endLineNumber": 7,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 35,
+            "endLineNumber": 7,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 36,
+            "endLineNumber": 7,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 37,
+            "endLineNumber": 7,
+            "endColumn": 37
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 38,
+            "endLineNumber": 7,
+            "endColumn": 38
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 39,
+            "endLineNumber": 7,
+            "endColumn": 39
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 41,
+            "endLineNumber": 7,
+            "endColumn": 41
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 41,
+            "endLineNumber": 8,
+            "endColumn": 1
+        },
+        "rangeLength": 2,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 42,
+            "endLineNumber": 7,
+            "endColumn": 42
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 1,
+            "endLineNumber": 8,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "$",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 2,
+            "endLineNumber": 8,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "()",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 3,
+            "endLineNumber": 8,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "f",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 4,
+            "endLineNumber": 8,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 5,
+            "endLineNumber": 8,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 6,
+            "endLineNumber": 8,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 7,
+            "endLineNumber": 8,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 8,
+            "endLineNumber": 8,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 9,
+            "endLineNumber": 8,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 10,
+            "endLineNumber": 8,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 11,
+            "endLineNumber": 8,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "()",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 12,
+            "endLineNumber": 8,
+            "endColumn": 13
+        },
+        "rangeLength": 1,
+        "text": ")",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 13,
+            "endLineNumber": 8,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "{}",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 14,
+            "endLineNumber": 8,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "\r\n    \r\n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 3,
+            "endLineNumber": 10,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": ";",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 1,
+            "endLineNumber": 9,
+            "endColumn": 5
+        },
+        "rangeLength": 4,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 1,
+            "endLineNumber": 9,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 5,
+            "endLineNumber": 9,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 6,
+            "endLineNumber": 9,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 7,
+            "endLineNumber": 9,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 8,
+            "endLineNumber": 9,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 9,
+            "endLineNumber": 9,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 10,
+            "endLineNumber": 9,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 11,
+            "endLineNumber": 9,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 12,
+            "endLineNumber": 9,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 13,
+            "endLineNumber": 9,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 14,
+            "endLineNumber": 9,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 15,
+            "endLineNumber": 9,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 16,
+            "endLineNumber": 9,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 17,
+            "endLineNumber": 9,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "q",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 18,
+            "endLineNumber": 9,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 19,
+            "endLineNumber": 9,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 20,
+            "endLineNumber": 9,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 21,
+            "endLineNumber": 9,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 22,
+            "endLineNumber": 9,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 23,
+            "endLineNumber": 9,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 24,
+            "endLineNumber": 9,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 25,
+            "endLineNumber": 9,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 26,
+            "endLineNumber": 9,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": "M",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 27,
+            "endLineNumber": 9,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 28,
+            "endLineNumber": 9,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 29,
+            "endLineNumber": 9,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 30,
+            "endLineNumber": 9,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 31,
+            "endLineNumber": 9,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 32,
+            "endLineNumber": 9,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 33,
+            "endLineNumber": 9,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 34,
+            "endLineNumber": 9,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 35,
+            "endLineNumber": 9,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 36,
+            "endLineNumber": 9,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 9,
+            "startColumn": 37,
+            "endLineNumber": 9,
+            "endColumn": 37
+        },
+        "rangeLength": 0,
+        "text": "\r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 5,
+            "endLineNumber": 10,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 6,
+            "endLineNumber": 10,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 7,
+            "endLineNumber": 10,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 8,
+            "endLineNumber": 10,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 9,
+            "endLineNumber": 10,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 10,
+            "endLineNumber": 10,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 11,
+            "endLineNumber": 10,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 12,
+            "endLineNumber": 10,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 13,
+            "endLineNumber": 10,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 14,
+            "endLineNumber": 10,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 15,
+            "endLineNumber": 10,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 16,
+            "endLineNumber": 10,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 17,
+            "endLineNumber": 10,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "v",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 18,
+            "endLineNumber": 10,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 19,
+            "endLineNumber": 10,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 20,
+            "endLineNumber": 10,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 21,
+            "endLineNumber": 10,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 22,
+            "endLineNumber": 10,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 23,
+            "endLineNumber": 10,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 24,
+            "endLineNumber": 10,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 25,
+            "endLineNumber": 10,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 26,
+            "endLineNumber": 10,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 27,
+            "endLineNumber": 10,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "f",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 28,
+            "endLineNumber": 10,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 29,
+            "endLineNumber": 10,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 30,
+            "endLineNumber": 10,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 31,
+            "endLineNumber": 10,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 32,
+            "endLineNumber": 10,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 33,
+            "endLineNumber": 10,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 34,
+            "endLineNumber": 10,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 10,
+            "startColumn": 35,
+            "endLineNumber": 10,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "\r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 11,
+            "startColumn": 5,
+            "endLineNumber": 11,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "\r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 11,
+            "startColumn": 1,
+            "endLineNumber": 11,
+            "endColumn": 5
+        },
+        "rangeLength": 4,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 5,
+            "endLineNumber": 12,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 6,
+            "endLineNumber": 12,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 7,
+            "endLineNumber": 12,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 8,
+            "endLineNumber": 12,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 9,
+            "endLineNumber": 12,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 10,
+            "endLineNumber": 12,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 11,
+            "endLineNumber": 12,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 11,
+            "endLineNumber": 12,
+            "endColumn": 12
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 10,
+            "endLineNumber": 12,
+            "endColumn": 11
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 10,
+            "endLineNumber": 12,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 11,
+            "endLineNumber": 12,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 12,
+            "endLineNumber": 12,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 13,
+            "endLineNumber": 12,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 14,
+            "endLineNumber": 12,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 15,
+            "endLineNumber": 12,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 16,
+            "endLineNumber": 12,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 17,
+            "endLineNumber": 12,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 18,
+            "endLineNumber": 12,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 19,
+            "endLineNumber": 12,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 20,
+            "endLineNumber": 12,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 21,
+            "endLineNumber": 12,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 22,
+            "endLineNumber": 12,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 23,
+            "endLineNumber": 12,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 24,
+            "endLineNumber": 12,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 25,
+            "endLineNumber": 12,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "b",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 26,
+            "endLineNumber": 12,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 27,
+            "endLineNumber": 12,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 28,
+            "endLineNumber": 12,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 29,
+            "endLineNumber": 12,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 30,
+            "endLineNumber": 12,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 31,
+            "endLineNumber": 12,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 32,
+            "endLineNumber": 12,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 33,
+            "endLineNumber": 12,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 34,
+            "endLineNumber": 12,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 35,
+            "endLineNumber": 12,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 36,
+            "endLineNumber": 12,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 37,
+            "endLineNumber": 12,
+            "endColumn": 37
+        },
+        "rangeLength": 0,
+        "text": "g",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 38,
+            "endLineNumber": 12,
+            "endColumn": 38
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 39,
+            "endLineNumber": 12,
+            "endColumn": 39
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 40,
+            "endLineNumber": 12,
+            "endColumn": 40
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 41,
+            "endLineNumber": 12,
+            "endColumn": 41
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 42,
+            "endLineNumber": 12,
+            "endColumn": 42
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 43,
+            "endLineNumber": 12,
+            "endColumn": 43
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 44,
+            "endLineNumber": 12,
+            "endColumn": 44
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 45,
+            "endLineNumber": 12,
+            "endColumn": 45
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 46,
+            "endLineNumber": 12,
+            "endColumn": 46
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 47,
+            "endLineNumber": 12,
+            "endColumn": 47
+        },
+        "rangeLength": 0,
+        "text": ".",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 48,
+            "endLineNumber": 12,
+            "endColumn": 48
+        },
+        "rangeLength": 0,
+        "text": ".",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 49,
+            "endLineNumber": 12,
+            "endColumn": 49
+        },
+        "rangeLength": 0,
+        "text": ".",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 12,
+            "startColumn": 50,
+            "endLineNumber": 12,
+            "endColumn": 50
+        },
+        "rangeLength": 0,
+        "text": "\r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 13,
+            "startColumn": 1,
+            "endLineNumber": 13,
+            "endColumn": 5
+        },
+        "rangeLength": 4,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 19,
+            "endLineNumber": 1,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "\r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 5,
+            "endLineNumber": 2,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 6,
+            "endLineNumber": 2,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "h",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 7,
+            "endLineNumber": 2,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "1",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 8,
+            "endLineNumber": 2,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 9,
+            "endLineNumber": 2,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "<",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 10,
+            "endLineNumber": 2,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 11,
+            "endLineNumber": 2,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "h",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 12,
+            "endLineNumber": 2,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "1",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 13,
+            "endLineNumber": 2,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": ">",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 9,
+            "endLineNumber": 2,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 10,
+            "endLineNumber": 2,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 11,
+            "endLineNumber": 2,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 12,
+            "endLineNumber": 2,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 13,
+            "endLineNumber": 2,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 14,
+            "endLineNumber": 2,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 15,
+            "endLineNumber": 2,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 16,
+            "endLineNumber": 2,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 17,
+            "endLineNumber": 2,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 18,
+            "endLineNumber": 2,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 19,
+            "endLineNumber": 2,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 20,
+            "endLineNumber": 2,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 21,
+            "endLineNumber": 2,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 22,
+            "endLineNumber": 2,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 23,
+            "endLineNumber": 2,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "g",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 24,
+            "endLineNumber": 2,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 1,
+            "endLineNumber": 14,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 5,
+            "endLineNumber": 14,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "$",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 6,
+            "endLineNumber": 14,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "()",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 7,
+            "endLineNumber": 14,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "\"\"",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 8,
+            "endLineNumber": 14,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": "h",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 9,
+            "endLineNumber": 14,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "1",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 12,
+            "endLineNumber": 14,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": ".",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 13,
+            "endLineNumber": 14,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 14,
+            "endLineNumber": 14,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 15,
+            "endLineNumber": 14,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "()",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 16,
+            "endLineNumber": 14,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "\"\"",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 17,
+            "endLineNumber": 14,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 18,
+            "endLineNumber": 14,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 19,
+            "endLineNumber": 14,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 20,
+            "endLineNumber": 14,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 21,
+            "endLineNumber": 14,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "k",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 23,
+            "endLineNumber": 14,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": ",",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 24,
+            "endLineNumber": 14,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 25,
+            "endLineNumber": 14,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "f",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 26,
+            "endLineNumber": 14,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 27,
+            "endLineNumber": 14,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 28,
+            "endLineNumber": 14,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 29,
+            "endLineNumber": 14,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 30,
+            "endLineNumber": 14,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 31,
+            "endLineNumber": 14,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 32,
+            "endLineNumber": 14,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 33,
+            "endLineNumber": 14,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "()",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 34,
+            "endLineNumber": 14,
+            "endColumn": 35
+        },
+        "rangeLength": 1,
+        "text": ")",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 35,
+            "endLineNumber": 14,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "{}",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 14,
+            "startColumn": 36,
+            "endLineNumber": 14,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": "\r\n        \r\n    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 7,
+            "endLineNumber": 16,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": ";",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 1,
+            "endLineNumber": 15,
+            "endColumn": 9
+        },
+        "rangeLength": 8,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 1,
+            "endLineNumber": 15,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "        ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 9,
+            "endLineNumber": 15,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 5,
+            "endLineNumber": 15,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "    ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 9,
+            "endLineNumber": 15,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 10,
+            "endLineNumber": 15,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 11,
+            "endLineNumber": 15,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 12,
+            "endLineNumber": 15,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 13,
+            "endLineNumber": 15,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 14,
+            "endLineNumber": 15,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 15,
+            "endLineNumber": 15,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 16,
+            "endLineNumber": 15,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 17,
+            "endLineNumber": 15,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 18,
+            "endLineNumber": 15,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "f",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 19,
+            "endLineNumber": 15,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 20,
+            "endLineNumber": 15,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 21,
+            "endLineNumber": 15,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 22,
+            "endLineNumber": 15,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 23,
+            "endLineNumber": 15,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 24,
+            "endLineNumber": 15,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 25,
+            "endLineNumber": 15,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 26,
+            "endLineNumber": 15,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 27,
+            "endLineNumber": 15,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 28,
+            "endLineNumber": 15,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 29,
+            "endLineNumber": 15,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 30,
+            "endLineNumber": 15,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 30,
+            "endLineNumber": 15,
+            "endColumn": 31
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 29,
+            "endLineNumber": 15,
+            "endColumn": 30
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 28,
+            "endLineNumber": 15,
+            "endColumn": 29
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 28,
+            "endLineNumber": 15,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 29,
+            "endLineNumber": 15,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 30,
+            "endLineNumber": 15,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 31,
+            "endLineNumber": 15,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 32,
+            "endLineNumber": 15,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 33,
+            "endLineNumber": 15,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 34,
+            "endLineNumber": 15,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": "p",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 35,
+            "endLineNumber": 15,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 36,
+            "endLineNumber": 15,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 37,
+            "endLineNumber": 15,
+            "endColumn": 37
+        },
+        "rangeLength": 0,
+        "text": "é",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 38,
+            "endLineNumber": 15,
+            "endColumn": 38
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 39,
+            "endLineNumber": 15,
+            "endColumn": 39
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 40,
+            "endLineNumber": 15,
+            "endColumn": 40
+        },
+        "rangeLength": 0,
+        "text": "q",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 41,
+            "endLineNumber": 15,
+            "endColumn": 41
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 41,
+            "endLineNumber": 15,
+            "endColumn": 42
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 41,
+            "endLineNumber": 15,
+            "endColumn": 41
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 42,
+            "endLineNumber": 15,
+            "endColumn": 42
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 43,
+            "endLineNumber": 15,
+            "endColumn": 43
+        },
+        "rangeLength": 0,
+        "text": "n",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 44,
+            "endLineNumber": 15,
+            "endColumn": 44
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 45,
+            "endLineNumber": 15,
+            "endColumn": 45
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 46,
+            "endLineNumber": 15,
+            "endColumn": 46
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 47,
+            "endLineNumber": 15,
+            "endColumn": 47
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 48,
+            "endLineNumber": 15,
+            "endColumn": 48
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 49,
+            "endLineNumber": 15,
+            "endColumn": 49
+        },
+        "rangeLength": 0,
+        "text": "v",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 50,
+            "endLineNumber": 15,
+            "endColumn": 50
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 51,
+            "endLineNumber": 15,
+            "endColumn": 51
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 52,
+            "endLineNumber": 15,
+            "endColumn": 52
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 53,
+            "endLineNumber": 15,
+            "endColumn": 53
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 54,
+            "endLineNumber": 15,
+            "endColumn": 54
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 55,
+            "endLineNumber": 15,
+            "endColumn": 55
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 56,
+            "endLineNumber": 15,
+            "endColumn": 56
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 15,
+            "startColumn": 57,
+            "endLineNumber": 15,
+            "endColumn": 57
+        },
+        "rangeLength": 0,
+        "text": "\r\n        ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 9,
+            "endLineNumber": 16,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 10,
+            "endLineNumber": 16,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 11,
+            "endLineNumber": 16,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 12,
+            "endLineNumber": 16,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "v",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 13,
+            "endLineNumber": 16,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 14,
+            "endLineNumber": 16,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 15,
+            "endLineNumber": 16,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "c",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 16,
+            "endLineNumber": 16,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 17,
+            "endLineNumber": 16,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 18,
+            "endLineNumber": 16,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "q",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 19,
+            "endLineNumber": 16,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 20,
+            "endLineNumber": 16,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 21,
+            "endLineNumber": 16,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 22,
+            "endLineNumber": 16,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 23,
+            "endLineNumber": 16,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 24,
+            "endLineNumber": 16,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "u",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 25,
+            "endLineNumber": 16,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 26,
+            "endLineNumber": 16,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 27,
+            "endLineNumber": 16,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 28,
+            "endLineNumber": 16,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 29,
+            "endLineNumber": 16,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 30,
+            "endLineNumber": 16,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "b",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 31,
+            "endLineNumber": 16,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 32,
+            "endLineNumber": 16,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 33,
+            "endLineNumber": 16,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "i",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 34,
+            "endLineNumber": 16,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": "s",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 35,
+            "endLineNumber": 16,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 36,
+            "endLineNumber": 16,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 37,
+            "endLineNumber": 16,
+            "endColumn": 37
+        },
+        "rangeLength": 0,
+        "text": "h",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 38,
+            "endLineNumber": 16,
+            "endColumn": 38
+        },
+        "rangeLength": 0,
+        "text": "1",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 16,
+            "startColumn": 39,
+            "endLineNumber": 16,
+            "endColumn": 39
+        },
+        "rangeLength": 0,
+        "text": "\r\n        ",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 9,
+            "endLineNumber": 17,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "a",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 10,
+            "endLineNumber": 17,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "l",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 11,
+            "endLineNumber": 17,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 12,
+            "endLineNumber": 17,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 13,
+            "endLineNumber": 17,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "t",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 14,
+            "endLineNumber": 17,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "()",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 15,
+            "endLineNumber": 17,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": "''",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 16,
+            "endLineNumber": 17,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 17,
+            "endLineNumber": 17,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "L",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 18,
+            "endLineNumber": 17,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "I",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 19,
+            "endLineNumber": 17,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 20,
+            "endLineNumber": 17,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "K",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 17,
+            "startColumn": 23,
+            "endLineNumber": 17,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": ";",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 1,
+            "endLineNumber": 1,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 2,
+            "endLineNumber": 1,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "*",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 3,
+            "endLineNumber": 1,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 1,
+            "endLineNumber": 2,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "*",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 2,
+            "endLineNumber": 2,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "/",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 1,
+            "startColumn": 3,
+            "endLineNumber": 1,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 1,
+            "endLineNumber": 2,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "R",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 2,
+            "endLineNumber": 2,
+            "endColumn": 2
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 3,
+            "endLineNumber": 2,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 4,
+            "endLineNumber": 2,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 4,
+            "endLineNumber": 2,
+            "endColumn": 5
+        },
+        "rangeLength": 1,
+        "text": "",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 4,
+            "endLineNumber": 2,
+            "endColumn": 4
+        },
+        "rangeLength": 0,
+        "text": "o",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 5,
+            "endLineNumber": 2,
+            "endColumn": 5
+        },
+        "rangeLength": 0,
+        "text": "d",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 6,
+            "endLineNumber": 2,
+            "endColumn": 6
+        },
+        "rangeLength": 0,
+        "text": "e",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 7,
+            "endLineNumber": 2,
+            "endColumn": 7
+        },
+        "rangeLength": 0,
+        "text": "r",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 8,
+            "endLineNumber": 2,
+            "endColumn": 8
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 9,
+            "endLineNumber": 2,
+            "endColumn": 9
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 10,
+            "endLineNumber": 2,
+            "endColumn": 10
+        },
+        "rangeLength": 0,
+        "text": "J",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 11,
+            "endLineNumber": 2,
+            "endColumn": 11
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 12,
+            "endLineNumber": 2,
+            "endColumn": 12
+        },
+        "rangeLength": 0,
+        "text": "U",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 13,
+            "endLineNumber": 2,
+            "endColumn": 13
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 14,
+            "endLineNumber": 2,
+            "endColumn": 14
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 15,
+            "endLineNumber": 2,
+            "endColumn": 15
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 16,
+            "endLineNumber": 2,
+            "endColumn": 16
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 17,
+            "endLineNumber": 2,
+            "endColumn": 17
+        },
+        "rangeLength": 0,
+        "text": "U",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 18,
+            "endLineNumber": 2,
+            "endColumn": 18
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 19,
+            "endLineNumber": 2,
+            "endColumn": 19
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 20,
+            "endLineNumber": 2,
+            "endColumn": 20
+        },
+        "rangeLength": 0,
+        "text": "M",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 21,
+            "endLineNumber": 2,
+            "endColumn": 21
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 22,
+            "endLineNumber": 2,
+            "endColumn": 22
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 23,
+            "endLineNumber": 2,
+            "endColumn": 23
+        },
+        "rangeLength": 0,
+        "text": "I",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 24,
+            "endLineNumber": 2,
+            "endColumn": 24
+        },
+        "rangeLength": 0,
+        "text": "Q",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 25,
+            "endLineNumber": 2,
+            "endColumn": 25
+        },
+        "rangeLength": 0,
+        "text": "U",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 26,
+            "endLineNumber": 2,
+            "endColumn": 26
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 27,
+            "endLineNumber": 2,
+            "endColumn": 27
+        },
+        "rangeLength": 0,
+        "text": "M",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 28,
+            "endLineNumber": 2,
+            "endColumn": 28
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 29,
+            "endLineNumber": 2,
+            "endColumn": 29
+        },
+        "rangeLength": 0,
+        "text": "N",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 30,
+            "endLineNumber": 2,
+            "endColumn": 30
+        },
+        "rangeLength": 0,
+        "text": "T",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 31,
+            "endLineNumber": 2,
+            "endColumn": 31
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 32,
+            "endLineNumber": 2,
+            "endColumn": 32
+        },
+        "rangeLength": 0,
+        "text": "L",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 33,
+            "endLineNumber": 2,
+            "endColumn": 33
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 34,
+            "endLineNumber": 2,
+            "endColumn": 34
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 35,
+            "endLineNumber": 2,
+            "endColumn": 35
+        },
+        "rangeLength": 0,
+        "text": "C",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 36,
+            "endLineNumber": 2,
+            "endColumn": 36
+        },
+        "rangeLength": 0,
+        "text": "O",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 37,
+            "endLineNumber": 2,
+            "endColumn": 37
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 38,
+            "endLineNumber": 2,
+            "endColumn": 38
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 39,
+            "endLineNumber": 2,
+            "endColumn": 39
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 40,
+            "endLineNumber": 2,
+            "endColumn": 40
+        },
+        "rangeLength": 0,
+        "text": "J",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 41,
+            "endLineNumber": 2,
+            "endColumn": 41
+        },
+        "rangeLength": 0,
+        "text": "S",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 42,
+            "endLineNumber": 2,
+            "endColumn": 42
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 43,
+            "endLineNumber": 2,
+            "endColumn": 43
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 44,
+            "endLineNumber": 2,
+            "endColumn": 44
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 45,
+            "endLineNumber": 2,
+            "endColumn": 45
+        },
+        "rangeLength": 0,
+        "text": "L",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 46,
+            "endLineNumber": 2,
+            "endColumn": 46
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 47,
+            "endLineNumber": 2,
+            "endColumn": 47
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 48,
+            "endLineNumber": 2,
+            "endColumn": 48
+        },
+        "rangeLength": 0,
+        "text": "F",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 49,
+            "endLineNumber": 2,
+            "endColumn": 49
+        },
+        "rangeLength": 0,
+        "text": "I",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 50,
+            "endLineNumber": 2,
+            "endColumn": 50
+        },
+        "rangeLength": 0,
+        "text": "N",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 51,
+            "endLineNumber": 2,
+            "endColumn": 51
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 52,
+            "endLineNumber": 2,
+            "endColumn": 52
+        },
+        "rangeLength": 0,
+        "text": "D",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 53,
+            "endLineNumber": 2,
+            "endColumn": 53
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 54,
+            "endLineNumber": 2,
+            "endColumn": 54
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 55,
+            "endLineNumber": 2,
+            "endColumn": 55
+        },
+        "rangeLength": 0,
+        "text": "L",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 56,
+            "endLineNumber": 2,
+            "endColumn": 56
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 57,
+            "endLineNumber": 2,
+            "endColumn": 57
+        },
+        "rangeLength": 0,
+        "text": " ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 58,
+            "endLineNumber": 2,
+            "endColumn": 58
+        },
+        "rangeLength": 0,
+        "text": "P",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 59,
+            "endLineNumber": 2,
+            "endColumn": 59
+        },
+        "rangeLength": 0,
+        "text": "A",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 60,
+            "endLineNumber": 2,
+            "endColumn": 60
+        },
+        "rangeLength": 0,
+        "text": "G",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 61,
+            "endLineNumber": 2,
+            "endColumn": 61
+        },
+        "rangeLength": 0,
+        "text": "E",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 2,
+            "startColumn": 62,
+            "endLineNumber": 2,
+            "endColumn": 62
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 8,
+            "startColumn": 1,
+            "endLineNumber": 19,
+            "endColumn": 7
+        },
+        "rangeLength": 368,
+        "text": "",
+        "curTab": "html"
+    },
+    {
+        "range": {
+            "startLineNumber": 4,
+            "startColumn": 3,
+            "endLineNumber": 4,
+            "endColumn": 3
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 5,
+            "startColumn": 1,
+            "endLineNumber": 5,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "\r\n",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 6,
+            "startColumn": 1,
+            "endLineNumber": 6,
+            "endColumn": 1
+        },
+        "rangeLength": 0,
+        "text": "/* RETARDER L'ACTIVATION DE NOTRE CODE */\r\n$(function(){\r\n    // attendre que le DOM soit pret\r\n    // pour activer cette fonction\r\n\r\n    // selectionner les balises et agir dessus...\r\n    $(\"h1\").on(\"click\", function(){\r\n        // cette fonction sera appelée quand le visiteur\r\n        // va cliquer sur la balise h1\r\n        alert('CLICK');        \r\n    });\r\n});   ",
+        "curTab": "js"
+    },
+    {
+        "range": {
+            "startLineNumber": 7,
+            "startColumn": 1,
+            "endLineNumber": 9,
+            "endColumn": 10
+        },
+        "rangeLength": 22,
+        "text": "",
+        "curTab": "html"
+    }
+]
