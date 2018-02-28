@@ -8,7 +8,7 @@ Code, Record and Replay your coding session
 
 ## Samples
 
-### instroduction to Flexbox and Responsive with vanilla HTML+CSS+JS
+### introduction to Flexbox and Responsive with vanilla HTML+CSS+JS
 
 * Replay the coding of a Reponsive Webpage with Flexbox (vanilla HTML+CSS+JS)
 * Press "GO" when the page is loaded
