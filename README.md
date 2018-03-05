@@ -26,6 +26,14 @@ Code, Record and Replay your coding session
 * Press "GO" when the page is loaded
 * https://mars13.fr/dev/recoder/?load=https://raw.githubusercontent.com/mars13code/ReCoder/master/samples/ReCode-003.json
 
+### Diaporama, Lightbox, Carousel with JS
+
+* Replay the writing of somes simple lines of code  (HTML+CSS+JS)
+* Press "GO" when the page is loaded
+* https://mars13.fr/dev/recoder/?load=https://raw.githubusercontent.com/mars13code/ReCoder/master/samples/ReCode-004.json
+* https://mars13.fr/dev/recoder/?load=https://raw.githubusercontent.com/mars13code/ReCoder/master/samples/ReCode-005.json
+* https://mars13.fr/dev/recoder/?load=https://raw.githubusercontent.com/mars13code/ReCoder/master/samples/ReCode-006.json
+
 ## Monaco Editor
 
 * Many thanks to the powerful Monaco Editor
