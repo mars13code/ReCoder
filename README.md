@@ -6,6 +6,13 @@ Code, Record and Replay your coding session
 * Code, Record and Replay
 * Save and Share by exporting JSON data
 
+
+## How to ?
+
+* How to export my session?
+
+Click on "history" and copy all the JSON data displayed.
+
 ## Samples
 
 ### introduction to Flexbox and Responsive with vanilla HTML+CSS+JS
