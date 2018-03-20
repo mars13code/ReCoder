@@ -144,7 +144,7 @@ iframe {
     <div class="toolbar">
         <strong><a href="/">MARS13.FR * ReCoder</a></strong>
         <pre> </pre>
-        <a class="go" href="#go">GO</a>
+        <a class="go" href="#go">GO (<small>press to replay</small>)</a>
         <input type="number" name="speed" value="50" step="10">
         <pre> ms  </pre>
         <a class="step" href="#">0 / 0</a>
@@ -205,9 +205,9 @@ var updateAjax  = function ()
     	                        + '<' + '/style' + '>'
     	                        + htmlModel.getValue() 
     	                        + '<' + 'script' + '>'
-    	                        + 'try { '
+    	                        //+ 'try { '
     	                        + jsModel.getValue()
-    	                        + ' } catch(error) { console.log(error) } '
+    	                        //+ ' } catch(error) { console.log(error) } '
     	                        + '<' + '/script' + '>'
     	                        ;
         preview.srcdoc  = previewCode;
@@ -266,9 +266,9 @@ require(['vs/editor/editor.main'], function() {
     	theme: "vs-dark"
 	});
 	
-	htmlModel = monaco.editor.createModel("<!-- html -->", "html", "page.html");
-	cssModel = monaco.editor.createModel("/* css */", "css", "site.css");
-	jsModel = monaco.editor.createModel("/* javascript */", "javascript", "site.js");
+	htmlModel = monaco.editor.createModel("", "html", "page.html");
+	cssModel = monaco.editor.createModel("", "css", "site.css");
+	jsModel = monaco.editor.createModel("", "javascript", "site.js");
 	
 	curModel = htmlModel;
 	editor.setModel(htmlModel);
@@ -328,11 +328,15 @@ require(['vs/editor/editor.main'], function() {
 	editor2.onDidChangeModelContent(editorUpdate2);
 	editor3.onDidChangeModelContent(editorUpdate3);
 	
+	var goText = document.querySelector(".go small");
+	var playMode = false;
     var replayCode = function ()
     {
         if (replayIndex >= tabRange.length) 
         {
             recordMode = true;
+            playMode = false;
+            goText.innerHTML = "press to play";
             return;
         }
         
@@ -370,35 +374,55 @@ require(['vs/editor/editor.main'], function() {
         replayIndex++;
 
         updateStep();
-
-        replaySpeed = Math.max(10, parseInt(document.querySelector("input[name=speed]").value));
-        setTimeout(replayCode, replaySpeed);
+        
+        if (playMode)
+        {
+            replaySpeed = Math.max(10, parseInt(document.querySelector("input[name=speed]").value));
+            setTimeout(replayCode, replaySpeed);
+        }
     }
     
 	var go = document.querySelector(".go");
 	go.addEventListener("click", function() {
-	    recordMode = false;
-
-        // TEST JSON
-        //var histoCode   = document.querySelector("textarea[name=history]");
-        //jsonReplay      = JSON.stringify(tabRange, null, 1);
-        //histoCode.value = jsonReplay;
-        //tabRange        = JSON.parse(jsonReplay);
-        if (!Array.isArray(tabRange)) {
-            console.log("ERROR ON REPLAY" + jsonReplay);
-            return;
-        }
-
-	    htmlModel.setValue('');
-	    cssModel.setValue('');
-	    jsModel.setValue('');
-
-	    replayIndex = 0;
-        replaySpeed = Math.max(10, parseInt(document.querySelector("input[name=speed]").value));
-
-	    setTimeout(replayCode, replaySpeed);
-
-	    //tabRange    = [];
+	    if (recordMode)
+	    {
+	        // REPLAY MODE
+    	    recordMode = false;
+            playMode = true;
+            goText.innerHTML = "press to pause";
+            // TEST JSON
+            //var histoCode   = document.querySelector("textarea[name=history]");
+            //jsonReplay      = JSON.stringify(tabRange, null, 1);
+            //histoCode.value = jsonReplay;
+            //tabRange        = JSON.parse(jsonReplay);
+            if (!Array.isArray(tabRange)) {
+                console.log("ERROR ON REPLAY" + jsonReplay);
+                return;
+            }
+    
+    	    htmlModel.setValue('');
+    	    cssModel.setValue('');
+    	    jsModel.setValue('');
+    
+    	    replayIndex = 0;
+            replaySpeed = Math.max(10, parseInt(document.querySelector("input[name=speed]").value));
+    
+    	    setTimeout(replayCode, replaySpeed);
+	    }
+	    else if(playMode)
+	    {
+	        // PAUSE MODE
+            goText.innerHTML = "press to play";
+            playMode = false;
+ 	    }
+ 	    else
+ 	    {
+	        // PLAY MODE
+            goText.innerHTML = "press to pause";
+            playMode = true;
+            replaySpeed = Math.max(10, parseInt(document.querySelector("input[name=speed]").value));
+    	    setTimeout(replayCode, replaySpeed);
+ 	    }
 	});
 	var reset = document.querySelector(".reset");
 	reset.addEventListener("click", function() {
