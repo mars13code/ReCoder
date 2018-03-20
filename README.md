@@ -9,7 +9,7 @@ Code, Record and Replay your coding session
 
 ## How to ?
 
-* How to export my session?
+* How to export my coding session?
 
 Click on "history" and copy all the JSON data displayed.
 
