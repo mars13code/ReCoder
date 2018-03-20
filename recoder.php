@@ -126,6 +126,12 @@ iframe {
 .toolbar .go {
     font-weight:900;
 }
+.toolbar .go small {
+    font-weight:100;
+    font-size:10px;
+    text-transform: uppercase;
+}
+
 .toolbar input {
     margin-top:0.4rem;
     padding:0.5rem;
